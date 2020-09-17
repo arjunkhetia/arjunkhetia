@@ -20,11 +20,14 @@
 <br />
 <div align="center">
    <span>
-      <a target="_blank" href="https://www.facebook.com/arjunkhetia" />
+      <a href="https://www.facebook.com/arjunkhetia" />
       <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg" />
    </span>
    &nbsp;
-   <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/github.svg" />
+   <span>
+      <a href="https://github.com/arjunkhetia" />
+      <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/github.svg" />
+   </span>
    &nbsp;
    <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/linkedin.svg" />
    &nbsp;
