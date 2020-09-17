@@ -7,7 +7,7 @@
    <p>
       I am a Full Stack Developer and also Founder of 
       <span>
-         <a href="https://www.facebook.com/arjunkhetia">EmanciTech</a>
+         <a href="http://www.emancitech.com">EmanciTech</a>
       </span> 
       (Digital Services) Company.
    </p>
@@ -16,7 +16,7 @@
 <div align="left">
    <h2> Technologies Worked On </h2>
    <h3>FrontEnd : </h3>
-   <img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
+   <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
 </div>
 <br />
 <div align="left">
