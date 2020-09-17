@@ -19,7 +19,7 @@
 </div>
 <br />
 <div align="center">
-   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+   <img height="32" width="32" style="color:#1877F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </div>
 <br />
 <div align="center">
