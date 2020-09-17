@@ -19,8 +19,8 @@
 </div>
 <br />
 <div align="center">
-   <a href="https://www.facebook.com/arjunkhetia">
-      <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg" />
+   <a href="https://www.facebook.com/arjunkhetia" alt="Facebook">
+      <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg">
    </a>
    &nbsp;
    <a href="https://github.com/arjunkhetia">
