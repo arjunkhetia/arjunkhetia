@@ -19,8 +19,6 @@
 </div>
 <br />
 <div align="center">
-   <a href="mailto:arjunkhetia@gmail.com"><img width="37" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/gmail.png"></a>
-   &nbsp;
    <a href="https://www.facebook.com/arjunkhetia"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg"></a>
    &nbsp;
    <a href="https://github.com/arjunkhetia"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/github.svg"></a>
@@ -30,6 +28,8 @@
    <a href="https://www.instagram.com/arjunkhetia/"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/instagram.svg"></a>
    &nbsp;
    <a href="https://twitter.com/arjunkhetia"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/twitter.svg"></a>
+   &nbsp;
+   <a href="mailto:arjunkhetia@gmail.com"><img width="37" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/gmail.png"></a>
 </div>
 <br />
 <div align="center">
