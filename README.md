@@ -6,16 +6,13 @@
    <h2> Arjun Khetia &nbsp; | &nbsp; Founder &nbsp; | &nbsp; EmanciTech </h2>
 </div>
 <br />
+## Quick overview
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=arjunkhetia&show_icons=true" align="center" alt="Arjun's Github Stats" />
 </div>
 <br />
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkhetia&langs_count=10&layout=compact" align="center" alt="Arjun's Github Langs Stats" />
-</div>
-<br />
-<div align="center">
-   
 </div>
 <br />
 <div align="center">
