@@ -15,7 +15,7 @@
 </div>
 <br />
 <div align="center">
-   Let's connect and chat!
+   <h4>Let's connect and chat!</h4>
 </div>
 <br />
 <div align="center">
