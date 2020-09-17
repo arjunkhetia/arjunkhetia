@@ -6,7 +6,7 @@
    <h2> Arjun Khetia &nbsp; | &nbsp; Founder &nbsp; | &nbsp; EmanciTech </h2>
 </div>
 <br />
-<div align="center">
+<div align="left">
    <h2> Quick Overview </h2>
 </div>
 <br />
