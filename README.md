@@ -15,10 +15,11 @@
 </div>
 <br />
 <div align="center">
-   <h3>Let's connect and chat!</h3>
+   
 </div>
 <br />
 <div align="center">
+   <h3>Let's connect and chat!</h3>
    <a href="https://www.facebook.com/arjunkhetia"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg"></a>
    &nbsp;
    <a href="https://github.com/arjunkhetia"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/github.svg"></a>
