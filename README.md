@@ -27,7 +27,7 @@
    &nbsp;
    <a href="https://www.linkedin.com/in/arjun-khetia-32527a54/"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/linkedin.svg"></a>
    &nbsp;
-   <a href="https://www.linkedin.com/in/arjun-khetia-32527a54/"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/instagram.svg"></a>
+   <a href="https://www.instagram.com/arjunkhetia/"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/instagram.svg"></a>
    &nbsp;
    <a href="https://twitter.com/arjunkhetia"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/twitter.svg"></a>
 </div>
