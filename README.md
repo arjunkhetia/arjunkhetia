@@ -19,7 +19,7 @@
 </div>
 <br />
 <div align="center">
-   <a href="https://www.facebook.com/arjunkhetia">
+   <a target="_blank" href="https://www.facebook.com/arjunkhetia">
       <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg" />
    </a>
    &nbsp;
