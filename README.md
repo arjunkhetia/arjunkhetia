@@ -29,7 +29,7 @@
    &nbsp;
    <a href="https://twitter.com/arjunkhetia"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/twitter.svg" /></a>
    &nbsp;
-   <a href="mailto:arjunkhetia@gmail.com"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/gmail.svg" /></a>
+   <a href="mailto:arjunkhetia@gmail.com"><img height="35" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/gmail.svg" /></a>
 </div>
 <br />
 <div align="center">
