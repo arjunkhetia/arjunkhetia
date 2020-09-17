@@ -10,7 +10,9 @@
 </div>
 <br />
 <div align="left">
-   <h2> Technologies I Worked On </h2>
+   <h2> Technologies Worked On </h2>
+   <h4>FrontEnd - </h4>
+   <img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg">
 </div>
 <br />
 <div align="left">
