@@ -19,10 +19,7 @@
 </div>
 <br />
 <div align="center">
-   <a href="https://www.facebook.com/arjunkhetia" alt="Facebook">
-      <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg">
-   </a>
-   <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+   <a href="https://www.facebook.com/arjunkhetia" alt="Facebook"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg"></a>
    &nbsp;
    <a href="https://github.com/arjunkhetia">
       <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/github.svg" />
