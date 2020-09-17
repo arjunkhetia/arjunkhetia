@@ -19,7 +19,7 @@
 </div>
 <br />
 <div align="center">
-   <a href="mailto:arjunkhetia@gmail.com"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/gmail.svg"></a>
+   <a href="mailto:arjunkhetia@gmail.com"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/gmail.png"></a>
    &nbsp;
    <a href="https://www.facebook.com/arjunkhetia"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg"></a>
    &nbsp;
