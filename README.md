@@ -29,9 +29,15 @@
       <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/github.svg" />
    </span>
    &nbsp;
-   <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/linkedin.svg" />
+   <span>
+      <a href="https://www.linkedin.com/in/arjun-khetia-32527a54/" />
+      <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/linkedin.svg" />
+   </span>
    &nbsp;
-   <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/twitter.svg" />
+   <span>
+      <a href="https://twitter.com/arjunkhetia" />
+      <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/twitter.svg" />
+   </span>
 </div>
 <br />
 <div align="center">
