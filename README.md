@@ -5,14 +5,18 @@
 <div align="center">
    <h2> Arjun Khetia &nbsp; | &nbsp; Founder &nbsp; | &nbsp; EmanciTech </h2>
    <p>
-      I am a Full Stack Developer and also Founder of [EmanciTech](http://www.emancitech.com) (Digital Services) Company.
+      I am a Full Stack Developer and also Founder of <span>
+      <a href="https://www.facebook.com/arjunkhetia">
+      EmanciTech</a>
+      </span> (Digital Services) Company.
    </p>
 </div>
 <br />
 <div align="left">
    <h2> Technologies Worked On </h2>
-   <h4>FrontEnd - </h4>
+   <h4>FrontEnd - 
    <img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg">
+   </h4>
 </div>
 <br />
 <div align="left">
