@@ -9,7 +9,6 @@
 <div align="left">
    <h2> Quick Overview </h2>
 </div>
-<br />
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkhetia&langs_count=10&layout=compact" align="center" alt="Arjun's Github Langs Stats" />
    <img src="https://github-readme-stats.vercel.app/api?username=arjunkhetia&show_icons=true" align="center" alt="Arjun's Github Stats" />
