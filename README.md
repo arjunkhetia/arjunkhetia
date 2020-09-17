@@ -4,13 +4,13 @@
 </div>
 <div align="center">
    <h2> Arjun Khetia &nbsp; | &nbsp; Founder &nbsp; | &nbsp; EmanciTech </h2>
+   <p>
+      I am Full Stack Developer and founder of EmanciTech (Digital Services) Company.
+   </p>
 </div>
 <br />
 <div align="left">
    <h2> Quick Overview </h2>
-   <p>
-      I am Full Stack Developer and founder of EmanciTech (Digital Services) Company.
-   </p>
 </div>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkhetia&langs_count=10&layout=compact" align="center" alt="Arjun's Github Langs Stats" />
