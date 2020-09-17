@@ -5,7 +5,7 @@
 <div align="center">
    <h2> Arjun Khetia &nbsp; | &nbsp; Founder &nbsp; | &nbsp; EmanciTech </h2>
    <p>
-      I am a Full Stack Developer and also Founder of EmanciTech (Digital Services) Company.
+      I am a Full Stack Developer and also Founder of [EmanciTech](http://www.emancitech.com) (Digital Services) Company.
    </p>
 </div>
 <br />
