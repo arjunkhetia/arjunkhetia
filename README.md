@@ -6,7 +6,10 @@
    <h2> Arjun Khetia &nbsp; | &nbsp; Founder &nbsp; | &nbsp; EmanciTech </h2>
 </div>
 <br />
-## Quick overview
+<div align="center">
+   <h2> Quick Overview </h2>
+</div>
+<br />
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=arjunkhetia&show_icons=true" align="center" alt="Arjun's Github Stats" />
 </div>
