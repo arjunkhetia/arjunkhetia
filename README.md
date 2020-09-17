@@ -20,23 +20,27 @@
 <br />
 <div align="center">
    <span>
-      <a href="https://www.facebook.com/arjunkhetia" />
-      <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg" />
+      <a href="https://www.facebook.com/arjunkhetia">
+         <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg" />
+      </a>
    </span>
    &nbsp;
    <span>
-      <a href="https://github.com/arjunkhetia" />
-      <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/github.svg" />
+      <a href="https://github.com/arjunkhetia">
+         <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/github.svg" />
+      </a>
    </span>
    &nbsp;
    <span>
-      <a href="https://www.linkedin.com/in/arjun-khetia-32527a54/" />
-      <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/linkedin.svg" />
+      <a href="https://www.linkedin.com/in/arjun-khetia-32527a54/">
+         <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/linkedin.svg" />
+      </a>
    </span>
    &nbsp;
    <span>
-      <a href="https://twitter.com/arjunkhetia" />
-      <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/twitter.svg" />
+      <a href="https://twitter.com/arjunkhetia">
+         <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/twitter.svg" />
+      </a>
    </span>
 </div>
 <br />
