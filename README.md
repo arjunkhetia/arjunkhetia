@@ -22,6 +22,10 @@
    <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg" />
    &nbsp;
    <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/github.svg" />
+   &nbsp;
+   <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/linkedin.svg" />
+   &nbsp;
+   <img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/twitter.svg" />
 </div>
 <br />
 <div align="center">
