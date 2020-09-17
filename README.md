@@ -17,8 +17,9 @@
    <h2> Technologies Worked On </h2>
    <h3>FrontEnd : </h3>
    &nbsp;
-   HTML
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.svg">
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
+   &nbsp;
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
    &nbsp;
