@@ -11,8 +11,8 @@
 </div>
 <br />
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=arjunkhetia&show_icons=true" align="center" alt="Arjun's Github Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkhetia&langs_count=10&layout=compact" align="center" alt="Arjun's Github Langs Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=arjunkhetia&show_icons=true" align="center" alt="Arjun's Github Stats" />
 </div>
 <br />
 <div align="center">
