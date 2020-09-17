@@ -19,5 +19,9 @@
 </div>
 <br />
 <div align="center">
+   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</div>
+<br />
+<div align="center">
    <img src="https://visitor-badge.glitch.me/badge?page_id=arjunkhetia" align="center" alt="Arjun's visitors Badge" />
 </div>
