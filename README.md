@@ -22,7 +22,7 @@
                   <td align="center"><h3>FrontEnd Technologies</h3></td>
                </tr>
                <tr>
-                  <td>
+                  <td align="center">
                      <img raw=true height="45" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
                      &nbsp;
                      <img raw=true height="45" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
@@ -44,7 +44,7 @@
                   <td align="center"><h3>BackEnd Technologies</h3></td>
                </tr>
                <tr>
-                  <td>
+                  <td align="center">
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
                      &nbsp;
                      <img raw=true height="50" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
@@ -70,7 +70,7 @@
                   <td align="center"><h3>Hybrid Application Technologies</h3></td>
                </tr>
                <tr>
-                  <td>
+                  <td align="center">
                      <img raw=true height="45" width="45" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/windows.svg">
                      &nbsp;
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/android.svg">
@@ -86,7 +86,7 @@
                   <td align="center"><h3>Server Technologies</h3></td>
                </tr>
                <tr>
-                  <td>
+                  <td align="center">
                      <img raw=true height="40" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/aws.png">
                      &nbsp;
                      <img raw=true height="50" width="85" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/google.png">
