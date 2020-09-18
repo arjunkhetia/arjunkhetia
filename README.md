@@ -14,7 +14,7 @@
 </div>
 <br />
 <div align="left">
-   <h2> Technologies Worked On </h2>
+   <h2> <img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/technology.png"> Technologies Worked On </h2>
    <h3>FrontEnd : </h3>
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
    &nbsp;
