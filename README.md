@@ -16,14 +16,28 @@
 <div align="left">
    <h2> Technologies Worked On </h2>
    <h3>FrontEnd : </h3>
-   &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
    &nbsp;
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
+   <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
+   &nbsp;
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sass.png">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.svg">
+   <br />
+   <h3>BackEnd : </h3>
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.png">
+   &nbsp;
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.png">
+   &nbsp;
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.png">
+   &nbsp;
+   <h3>Package Management : </h3>
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.png">
+   &nbsp;
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.png">
+   &nbsp;
 </div>
 <br />
 <div align="left">
