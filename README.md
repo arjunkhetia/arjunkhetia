@@ -13,35 +13,40 @@
    </h3>
 </div>
 <br />
-<div align="left">
-   <h2> FrontEnd Technologies </h2>
-   <img raw=true height="35" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
-   &nbsp;
-   <img raw=true height="35" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
-   &nbsp;
-   <img raw=true height="40" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sass.svg">
-   &nbsp;
-   <img raw=true height="40" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
-   &nbsp;
-   <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
-   &nbsp;
-   <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.svg">
-</div>
-<br />
-<div align="left">
-   <h2> BackEnd Technologies </h2>
-   <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
-   &nbsp;
-   <img raw=true height="40" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
-   &nbsp;
-   <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.svg">
-   &nbsp;
-   <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.svg">
-   &nbsp;
-   <img raw=true height="40" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
-   &nbsp;
-   <img raw=true height="35" width="35" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/expressjs.png">
-</div>
+<table border="0">
+ <tr>
+    <td><h2> FrontEnd Technologies </h2></td>
+    <td><h2> BackEnd Technologies </h2></td>
+ </tr>
+ <tr>
+    <td>
+      <img raw=true height="35" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
+      &nbsp;
+      <img raw=true height="35" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
+      &nbsp;
+      <img raw=true height="40" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sass.svg">
+      &nbsp;
+      <img raw=true height="40" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
+      &nbsp;
+      <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
+      &nbsp;
+      <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.svg">
+    </td>
+    <td>
+      <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
+      &nbsp;
+      <img raw=true height="40" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
+      &nbsp;
+      <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.svg">
+      &nbsp;
+      <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.svg">
+      &nbsp;
+      <img raw=true height="40" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
+      &nbsp;
+      <img raw=true height="35" width="35" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/expressjs.png">
+    </td>
+ </tr>
+</table>
 <br />
 <div align="left">
    <h2> Hybrid Application Technologies </h2>
