@@ -49,7 +49,16 @@
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/android.svg">
    &nbsp;
-   <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/apple.svg">
+   <img raw=true height="80" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/apple.svg">
+</div>
+<br />
+<div align="left">
+   <h2> Server Technologies </h2>
+   <img raw=true height="70" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/aws.svg">
+   &nbsp;
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/google.svg">
+   &nbsp;
+   <img raw=true height="80" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/digitalocean.svg">
 </div>
 <br />
 <div align="left">
