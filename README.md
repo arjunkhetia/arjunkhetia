@@ -15,6 +15,8 @@
 <br />
 <div align="center">
    <h2> Technologies Worked On </h2>
+</div>
+<div align="center">
    <table border="0">
       <tr>
          <td align="center">
