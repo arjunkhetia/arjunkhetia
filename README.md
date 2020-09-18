@@ -67,21 +67,15 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <td align="center"><h3>FrontEnd Technologies</h3></td>
+                  <td align="center"><h3>Hybrid Application Technologies</h3></td>
                </tr>
                <tr>
                   <td>
-                     <img raw=true height="45" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
+                     <img raw=true height="45" width="45" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/windows.svg">
                      &nbsp;
-                     <img raw=true height="45" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/android.svg">
                      &nbsp;
-                     <img raw=true height="50" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sass.svg">
-                     &nbsp;
-                     <img raw=true height="50" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
-                     &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
-                     &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.svg">
+                     <img raw=true height="50" width="45" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/apple.svg">
                   </td>
                </tr>
             </table>
@@ -89,45 +83,21 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <td align="center"><h3>BackEnd Technologies</h3></td>
+                  <td align="center"><h3>Server Technologies</h3></td>
                </tr>
                <tr>
                   <td>
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
+                     <img raw=true height="40" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/aws.png">
                      &nbsp;
-                     <img raw=true height="50" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
+                     <img raw=true height="50" width="85" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/google.png">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.svg">
-                     &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.svg">
-                     &nbsp;
-                     <img raw=true height="50" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
-                     &nbsp;
-                     <img raw=true height="45" width="45" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/expressjs.png">
+                     <img raw=true height="50" width="55" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/digitalocean.png">
                   </td>
                </tr>
             </table>
          </td>
       </tr>
    </table>
-</div>
-<br />
-<div align="left">
-   <h2> Hybrid Application Technologies </h2>
-   <img raw=true height="35" width="35" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/windows.svg">
-   &nbsp;
-   <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/android.svg">
-   &nbsp;
-   <img raw=true height="40" width="35" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/apple.svg">
-</div>
-<br />
-<div align="left">
-   <h2> Server Technologies </h2>
-   <img raw=true height="30" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/aws.png">
-   &nbsp;
-   <img raw=true height="40" width="75" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/google.png">
-   &nbsp;
-   <img raw=true height="40" width="45" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/digitalocean.png">
 </div>
 <br />
 <div align="left">
