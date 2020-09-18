@@ -1,6 +1,6 @@
 <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="left" width="150" height="150">
 <div align="center">
-   <h1>Hi there, I'm Arjun  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi There, I'm Arjun  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
    <h2> Arjun Khetia &nbsp; | &nbsp; Founder &nbsp; | &nbsp; EmanciTech </h2>
@@ -14,8 +14,7 @@
 </div>
 <br />
 <div align="left">
-   <h2> <img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/technology.png"> Technologies Worked On </h2>
-   <h3>FrontEnd : </h3>
+   <h2> FrontEnd Technologies </h2>
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
    &nbsp;
    <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
@@ -25,19 +24,22 @@
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.svg">
-   <br />
-   <h3>BackEnd : </h3>
+</div>
+<br />
+<div align="left">
+   <h2> BackEnd Technologies </h2>
    <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.svg">
-   <br />
-   <h3>Package Management : </h3>
+</div>
+<br />
+<div align="left">
+   <h2> Package Management Technologies </h2>
    <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.svg">
-   &nbsp;
 </div>
 <br />
 <div align="left">
