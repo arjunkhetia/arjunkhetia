@@ -15,8 +15,8 @@
 <br />
 <table border="0" width="100%">
  <tr>
-    <td><h3>FrontEnd Technologies</h3></td>
-    <td><h3>BackEnd Technologies</h3></td>
+    <td align="center"><h3>FrontEnd Technologies</h3></td>
+    <td align="center"><h3>BackEnd Technologies</h3></td>
  </tr>
  <tr>
     <td>
@@ -33,17 +33,17 @@
       <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.svg">
     </td>
     <td>
-      <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
+      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
       &nbsp;
-      <img raw=true height="40" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
+      <img raw=true height="50" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
       &nbsp;
-      <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.svg">
+      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.svg">
       &nbsp;
-      <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.svg">
+      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.svg">
       &nbsp;
-      <img raw=true height="40" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
+      <img raw=true height="50" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
       &nbsp;
-      <img raw=true height="35" width="35" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/expressjs.png">
+      <img raw=true height="45" width="45" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/expressjs.png">
     </td>
  </tr>
 </table>
