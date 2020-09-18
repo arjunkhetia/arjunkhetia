@@ -40,12 +40,12 @@
    &nbsp;
    <img raw=true height="80" width="100" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
    &nbsp;
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/expressjs.png">
+   <img raw=true height="70" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/expressjs.png">
 </div>
 <br />
 <div align="left">
    <h2> Hybrid Application Technologies </h2>
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/windows.svg">
+   <img raw=true height="70" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/windows.svg">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/android.svg">
    &nbsp;
