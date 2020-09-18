@@ -13,10 +13,10 @@
    </h3>
 </div>
 <br />
-<table border="none">
+<table border="0" width="100%">
  <tr>
-    <td><h2>FrontEnd Technologies</h2></td>
-    <td><h2>BackEnd Technologies</h2></td>
+    <td><strong>FrontEnd Technologies</strong></td>
+    <td><strong>BackEnd Technologies</strong></td>
  </tr>
  <tr>
     <td>
