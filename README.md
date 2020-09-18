@@ -13,7 +13,7 @@
    </h3>
 </div>
 <br />
-<div align="center">
+<div align="left">
    <h2> Technologies Worked On </h2>
 </div>
 <div align="center">
