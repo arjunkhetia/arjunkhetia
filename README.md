@@ -15,9 +15,9 @@
 <br />
 <div align="left">
    <h2> FrontEnd Technologies </h2>
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
+   <img raw=true height="70" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
    &nbsp;
-   <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
+   <img raw=true height="70" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
    &nbsp;
    <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sass.svg">
    &nbsp;
@@ -34,7 +34,7 @@
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.svg">
    &nbsp;
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
+   <img raw=true height="80" width="100" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/expressjs.png">
 </div>
