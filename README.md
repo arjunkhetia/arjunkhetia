@@ -13,12 +13,8 @@
    </h3>
 </div>
 <br />
-<style>
-.red {color: red}
-</style>
-`red text`{.red}
 <div align="center">
-   <table border="0" display="inline-block">
+   <table border="0">
       <tr>
          <td align="center"><h3>FrontEnd Technologies</h3></td>
       </tr>
