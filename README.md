@@ -27,9 +27,9 @@
                      &nbsp;
                      <img raw=true height="45" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
                      &nbsp;
-                     <img raw=true height="50" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sass.svg">
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sass.svg">
                      &nbsp;
-                     <img raw=true height="50" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
                      &nbsp;
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.png">
                      &nbsp;
@@ -45,13 +45,13 @@
                </tr>
                <tr>
                   <td align="center">
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.png">
                      &nbsp;
                      <img raw=true height="50" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.svg">
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.png">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.svg">
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.png">
                      &nbsp;
                      <img raw=true height="50" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
                      &nbsp;
