@@ -13,6 +13,7 @@
    </h3>
 </div>
 <br />
+`red text`{.red}
 <div align="center">
    <table border="0" display="inline-block">
       <tr>
