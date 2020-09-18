@@ -54,11 +54,11 @@
 <br />
 <div align="left">
    <h2> Server Technologies </h2>
-   <img raw=true height="70" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/aws.svg">
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/aws.png">
    &nbsp;
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/google.svg">
+   <img raw=true height="80" width="100" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/google.png">
    &nbsp;
-   <img raw=true height="80" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/digitalocean.svg">
+   <img raw=true height="80" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/digitalocean.png">
 </div>
 <br />
 <div align="left">
