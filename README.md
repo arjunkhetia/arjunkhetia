@@ -1,8 +1,3 @@
-<style>
-   table{
-      display: inline-block;
-   }
-</style>
 <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="left" width="150" height="150">
 <div align="center">
    <h1>Hi There, I'm Arjun  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
@@ -19,7 +14,7 @@
 </div>
 <br />
 <div align="center">
-   <table border="0">
+   <table border="0" display="inline-block">
       <tr>
          <td align="center"><h3>FrontEnd Technologies</h3></td>
       </tr>
