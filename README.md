@@ -76,9 +76,9 @@
                   <td align="center">
                      <img raw=true height="50" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/mysql.svg">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/oracle.svg">
+                     <img raw=true height="50" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/oracle.svg">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sqlite.png">
+                     <img raw=true height="45" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sqlite.png">
                      &nbsp;
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/postgresql.png">
                      &nbsp;
