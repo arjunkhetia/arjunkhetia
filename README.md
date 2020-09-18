@@ -15,17 +15,17 @@
 <br />
 <div align="left">
    <h2> FrontEnd Technologies </h2>
-   <img raw=true height="70" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
+   <img raw=true height="35" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/html.png">
    &nbsp;
-   <img raw=true height="70" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
+   <img raw=true height="35" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/css.png">
    &nbsp;
-   <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sass.svg">
+   <img raw=true height="40" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sass.svg">
    &nbsp;
-   <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
+   <img raw=true height="40" width="30" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
    &nbsp;
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
+   <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
    &nbsp;
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.svg">
+   <img raw=true height="40" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.svg">
 </div>
 <br />
 <div align="left">
