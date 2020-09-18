@@ -82,17 +82,13 @@
                      &nbsp;
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/postgresql.png">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/mongodb.svg">
+                     <img raw=true height="50" width="90" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/mongodb.svg">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/cassandra.png">
-                     &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/datastax.png">
+                     <img raw=true height="50" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/cassandra.png">
                      &nbsp;
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/redis.png">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/neo4j.png">
-                     &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/graphdb.svg">
+                     <img raw=true height="50" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/neo4j.png">
                   </td>
                </tr>
             </table>
