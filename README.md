@@ -21,6 +21,8 @@
    &nbsp;
    <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sass.svg">
    &nbsp;
+   <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
+   &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.svg">
@@ -28,11 +30,13 @@
 <br />
 <div align="left">
    <h2> BackEnd Technologies </h2>
-   <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
+   <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
    &nbsp;
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.svg">
+   &nbsp;
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.svg">
    &nbsp;
    <img raw=true height="80" width="100" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
    &nbsp;
@@ -40,10 +44,12 @@
 </div>
 <br />
 <div align="left">
-   <h2> Package Management Technologies </h2>
-   <img raw=true height="80" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
+   <h2> Hybrid Application Technologies </h2>
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/windows.svg">
    &nbsp;
-   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.svg">
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/android.svg">
+   &nbsp;
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/apple.svg">
 </div>
 <br />
 <div align="left">
