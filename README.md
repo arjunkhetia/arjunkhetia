@@ -15,8 +15,8 @@
 <br />
 <table border="0">
  <tr>
-    <td><h2> FrontEnd Technologies </h2></td>
-    <td><h2> BackEnd Technologies </h2></td>
+    <td><h2>FrontEnd Technologies</h2></td>
+    <td><h2>BackEnd Technologies</h2></td>
  </tr>
  <tr>
     <td>
