@@ -31,9 +31,9 @@
                      &nbsp;
                      <img raw=true height="50" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/yarn.svg">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.svg">
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/angular.png">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.svg">
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/react.png">
                   </td>
                </tr>
             </table>
