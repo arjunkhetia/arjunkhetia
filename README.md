@@ -33,6 +33,10 @@
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.svg">
    &nbsp;
    <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.svg">
+   &nbsp;
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
+   &nbsp;
+   <img raw=true height="80" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/expressjs.png">
 </div>
 <br />
 <div align="left">
