@@ -70,6 +70,40 @@
          <td align="center">
             <table border="0">
                <tr>
+                  <td align="center"><h3>DataBase Technologies</h3></td>
+               </tr>
+               <tr>
+                  <td align="center">
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/mysql.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/oracle.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sqlite.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/postgresql.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/mongodb.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/cassandra.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/datastax.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/redis.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/neo4j.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/graphdb.png">
+                  </td>
+               </tr>
+            </table>
+         </td>
+      </tr>
+   </table>
+   <table border="0">
+      <tr>
+         <td align="center">
+            <table border="0">
+               <tr>
                   <td align="center"><h3>Hybrid Application Technologies</h3></td>
                </tr>
                <tr>
