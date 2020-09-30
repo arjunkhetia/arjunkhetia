@@ -9,8 +9,11 @@
       <span>
          <a href="http://www.emancitech.com">EmanciTech</a>
       </span> 
-      (Digital Services) Company.
+      Company.
    </h3>
+   <h1>
+      EmanciTech is a Digital Service Company.
+      </h2>
 </div>
 <br />
 <div align="left">
