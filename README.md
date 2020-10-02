@@ -3,9 +3,9 @@
    <h1>Hi There, I'm Arjun  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
-   <h2> Arjun Khetia &nbsp; | &nbsp; Full Stack Developer &nbsp; | &nbsp; EmanciTech </h2>
+   <h2> Arjun Khetia &nbsp; | &nbsp; Founder &nbsp; | &nbsp; EmanciTech </h2>
    <h3>
-      I am a Full Stack Developer at 
+      I am a Full Stack Developer and also Founder of 
       <span>
          <a href="http://www.emancitech.com">EmanciTech</a>
       </span> 
