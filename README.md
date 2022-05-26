@@ -137,9 +137,9 @@
    <h2> Quick Overview </h2>
 </div>
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkhetia" align="left" alt="Arjun's Github Streak" width="48%" >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkhetia&langs_count=10&layout=compact" align="Right" alt="Arjun's Github Langs Stats" width="48%" />
-   <br />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkhetia" align="left" alt="Arjun's Github Streak" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkhetia&langs_count=10&layout=compact" align="Right" alt="Arjun's Github Langs Stats" />
+   <br /><br />
    <img src="https://github-readme-stats.vercel.app/api?username=arjunkhetia&show_icons=true&include_all_commits=true" align="center" alt="Arjun's Github Stats" />
 </div>
 <br />
