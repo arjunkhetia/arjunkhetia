@@ -137,8 +137,11 @@
    <h2> Quick Overview </h2>
 </div>
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkhetia" align="left" alt="Arjun's Github Streak" width="48%" >
-   <img src="https://github-readme-stats.vercel.app/api?username=arjunkhetia&show_icons=true&include_all_commits=true" align="right" alt="Arjun's Github Stats" width="48%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkhetia" align="center" alt="Arjun's Github Streak" />
+</div>
+<div align="center"> &nbsp; </div>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=arjunkhetia&show_icons=true&include_all_commits=true" align="center" alt="Arjun's Github Stats" />
 </div>
 <div align="center"> &nbsp; </div>
 <div align="center">
