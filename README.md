@@ -141,7 +141,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=arjunkhetia&show_icons=true&include_all_commits=true" align="right" alt="Arjun's Github Stats" width="48%" />
 </div>
 <br />
-<div align="center"></div>
+<div align="center"> &nbsp; </div>
 <br />
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkhetia&langs_count=10&layout=compact" align="center" alt="Arjun's Github Langs Stats" />
