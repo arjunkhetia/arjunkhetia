@@ -21,7 +21,7 @@
 <div align="center">
    <table border="0">
       <tr>
-         <td align="center" style="border-color: white;">
+         <td align="center" borderColor="white">
             <table border="0">
                <tr>
                   <td align="center"><h3>FrontEnd Technologies</h3></td>
