@@ -9,7 +9,7 @@
    <h3>
       I am a Full Stack Developer and also Founder of 
       <span>
-         <a href="http://www.emancitech.com">EmanciTech</a>
+         <a href="http://www.emancitech.com" target="_blank">EmanciTech</a>
       </span> 
       (Digital Services) Company.
    </h3>
