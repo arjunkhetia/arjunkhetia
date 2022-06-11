@@ -21,7 +21,7 @@
 <div align="center">
    <table border="0">
       <tr>
-         <td align="center">
+         <td align="center" style="border-color: white;">
             <table border="0">
                <tr>
                   <td align="center"><h3>FrontEnd Technologies</h3></td>
@@ -43,7 +43,7 @@
                </tr>
             </table>
          </td>
-         <td align="center">
+         <td align="center" style="border-color: white;">
             <table border="0">
                <tr>
                   <td align="center"><h3>BackEnd Technologies</h3></td>
