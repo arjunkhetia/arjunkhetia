@@ -1,4 +1,6 @@
-<img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
+<div align="center">
+   <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
+</div>
 <div align="center">
    <h1>Hi There, I'm Arjun  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50" /> </h1>
 </div>
