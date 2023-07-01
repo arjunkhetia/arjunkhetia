@@ -180,7 +180,7 @@
    &nbsp;
    <a href="mailto:arjunkhetia@gmail.com"><img width="37" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/gmail.png"></a>
    &nbsp;
-   <a href="https://t.me/arjunkhetia"><img height="34" width="34" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/telegram.png"></a>
+   <a href="https://t.me/arjunkhetia"><img height="33" width="34" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/telegram.png"></a>
 </div>
 <br />
 <div align="center">
