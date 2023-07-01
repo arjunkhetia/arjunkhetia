@@ -166,7 +166,7 @@
 <br />
 <div align="center">
    <h3>Let's connect and chat!</h3>
-   <a href="https://api.whatsapp.com/send?phone=9925565507"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/whatsapp.png"></a>
+   <a href="https://api.whatsapp.com/send?phone=9925565507"><img raw=true height="37" width="37" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/whatsapp.png"></a>
    &nbsp;
    <a href="https://www.facebook.com/arjunkhetia"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg"></a>
    &nbsp;
