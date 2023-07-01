@@ -25,7 +25,7 @@
             <table border="0">
                <tr>
                   <td align="center">
-                  <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/frontend-tech.svg" alt="FrontEnd Technologies" />
+                     <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/frontend-tech.svg" alt="FrontEnd Technologies" />
                   </td>
                </tr>
                <tr>
@@ -48,7 +48,7 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <td align="center"><h3>BackEnd Technologies</h3></td>
+                  <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/backend-tech.svg" alt="BackEnd Technologies" />
                </tr>
                <tr>
                   <td align="center">
@@ -74,7 +74,7 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <td align="center"><h3>DataBase Technologies</h3></td>
+                  <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/database-tech.svg" alt="DataBase Technologies" />
                </tr>
                <tr>
                   <td align="center">
@@ -104,7 +104,7 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <td align="center"><h3>Hybrid Application Technologies</h3></td>
+                  <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/mobile-tech.svg" alt="Mobile Application Technologies" />
                </tr>
                <tr>
                   <td align="center">
@@ -120,7 +120,7 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <td align="center"><h3>Server Technologies</h3></td>
+                  <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/server-tech.svg" alt="Server Technologies" />
                </tr>
                <tr>
                   <td align="center">
