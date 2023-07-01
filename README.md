@@ -114,11 +114,15 @@
                </tr>
                <tr>
                   <td align="center">
-                     <img raw=true height="45" width="45" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/windows.png">
-                     &nbsp;
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/android.png">
                      &nbsp;
                      <img raw=true height="50" width="45" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/apple.svg">
+                     &nbsp;
+                     <img raw=true height="45" width="45" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/windows.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/ionic.png">
+                     &nbsp;
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/capacitor.svg">
                   </td>
                </tr>
             </table>
