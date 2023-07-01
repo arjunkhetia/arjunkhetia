@@ -25,7 +25,7 @@
             <table border="0">
                <tr>
                   <td align="center">
-                  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=666EEE&center=true&vCenter=true&width=435&lines=FrontEnd+Technologies)](https://git.io/typing-svg)
+                  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=666EEE&center=true&vCenter=true&width=435&lines=FrontEnd+Technologies" alt="Typing SVG" />
                   </td>
                </tr>
                <tr>
