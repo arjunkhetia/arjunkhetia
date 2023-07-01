@@ -6,8 +6,6 @@
 </div>
 <div align="center">
    <h2> Arjun Khetia &nbsp; | &nbsp; Full Stack Developer &nbsp; | &nbsp; EmanciTech </h2>
-   <br />
-   <img src="https://custom-icon-badges.demolab.com/badge/EmanciTech-Arjun Khetia-blue.svg?logo=emancitech-icon" alt="Emancitech's Badge" />
    <h3>
       I am a Full Stack Developer and also Founder of 
       <span>
@@ -15,6 +13,7 @@
       </span> 
       (The Goal Of Technology Existence) Company.
    </h3>
+   <img src="https://custom-icon-badges.demolab.com/badge/EmanciTech-Arjun Khetia-blue.svg?logo=emancitech-icon" alt="Emancitech's Badge" />
 </div>
 <br />
 <div align="left">
