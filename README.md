@@ -90,7 +90,7 @@
                      &nbsp;
                      <img raw=true height="45" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/sqlite.png">
                      &nbsp;
-                     <img raw=true height="50" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/neo4j.png">
+                     <img raw=true height="50" width="80" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/neo4j.png">
                      &nbsp;
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/postgresql.png">
                      &nbsp;
@@ -122,7 +122,7 @@
                      &nbsp;
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/ionic.png">
                      &nbsp;
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/capacitor.svg">
+                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/capacitor.png">
                   </td>
                </tr>
             </table>
