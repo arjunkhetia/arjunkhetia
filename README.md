@@ -25,7 +25,7 @@
             <table border="0">
                <tr>
                   <td align="center">
-                  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=666EEE&center=true&vCenter=true&width=300&height=30&lines=FrontEnd+Technologies" alt="Typing SVG" />
+                  <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/frontend-tech.svg" alt="FrontEnd Technologies" />
                   </td>
                </tr>
                <tr>
