@@ -16,7 +16,7 @@
    <img src="https://custom-icon-badges.demolab.com/badge/EmanciTech-Arjun Khetia-blue.svg?logo=emancitech-icon" align="center" alt="Emancitech's Badge" />
 </div>
 <div align="center">
-   <h2> Technologies Worked On </h2>
+   <h1> Technologies Worked On </h1>
 </div>
 <div align="center">
    <table border="0">
