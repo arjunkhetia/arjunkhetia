@@ -54,7 +54,7 @@
                </tr>
                <tr>
                   <td align="center">
-                     <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.png">
+                     <img raw=true height="50" width="40" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/java.png">
                      &nbsp;
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/javascript.svg">
                      &nbsp;
@@ -62,7 +62,7 @@
                      &nbsp;
                      <img raw=true height="40" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.png">
                      &nbsp;
-                     <img raw=true height="50" width="60" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
+                     <img raw=true height="50" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
                      &nbsp;
                      <img raw=true height="45" width="45" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/expressjs.png">
                   </td>
