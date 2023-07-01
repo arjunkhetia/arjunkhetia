@@ -60,7 +60,7 @@
                      &nbsp;
                      <img raw=true height="50" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/json.png">
                      &nbsp;
-                     <img raw=true height="40" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.png">
+                     <img raw=true height="35" width="50" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/npm.png">
                      &nbsp;
                      <img raw=true height="50" width="70" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/nodejs.png">
                      &nbsp;
