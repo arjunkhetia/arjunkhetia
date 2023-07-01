@@ -170,6 +170,6 @@
    <img src="https://komarev.com/ghpvc/?username=arjunkhetia&color=blue&style=plastic" alt="Profile's visitors Badge" />
    <br />
    <br />
-   <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=emancitech-icon" alt="Emancitech's Badge" />
+   <img src="https://custom-icon-badges.demolab.com/badge/EmanciTech-Arjun Khetia-blue.svg?logo=emancitech-icon" alt="Emancitech's Badge" />
    
 </div>
