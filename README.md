@@ -48,7 +48,9 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/backend-tech.svg" alt="BackEnd Technologies" />
+                  <td align="center">
+                     <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/backend-tech.svg" alt="BackEnd Technologies" />
+                  </td>
                </tr>
                <tr>
                   <td align="center">
@@ -74,7 +76,9 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/database-tech.svg" alt="DataBase Technologies" />
+                  <td align="center">
+                     <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/database-tech.svg" alt="DataBase Technologies" />
+                  </td>
                </tr>
                <tr>
                   <td align="center">
@@ -104,7 +108,9 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/mobile-tech.svg" alt="Mobile Application Technologies" />
+                  <td align="center">
+                     <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/mobile-tech.svg" alt="Mobile Application Technologies" />
+                  </td>
                </tr>
                <tr>
                   <td align="center">
@@ -120,7 +126,9 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/server-tech.svg" alt="Server Technologies" />
+                  <td align="center">
+                     <img align="center" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/server-tech.svg" alt="Server Technologies" />
+                  </td>
                </tr>
                <tr>
                   <td align="center">
