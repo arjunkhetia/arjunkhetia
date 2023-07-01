@@ -167,5 +167,5 @@
 <br />
 <div align="center">
    <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=arjunkhetia" align="center" alt="Arjun's visitors Badge" /> -->
-   <img src="https://komarev.com/ghpvc/?username=arjunkhetia&color=brightgreen" alt="Profile's visitors Badge" />
+   <img src="https://komarev.com/ghpvc/?username=arjunkhetia&color=blue&style=plastic" alt="Profile's visitors Badge" />
 </div>
