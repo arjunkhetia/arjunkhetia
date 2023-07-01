@@ -6,6 +6,8 @@
 </div>
 <div align="center">
    <h2> Arjun Khetia &nbsp; | &nbsp; Full Stack Developer &nbsp; | &nbsp; EmanciTech </h2>
+   <br />
+   <img src="https://custom-icon-badges.demolab.com/badge/EmanciTech-Arjun Khetia-blue.svg?logo=emancitech-icon" alt="Emancitech's Badge" />
    <h3>
       I am a Full Stack Developer and also Founder of 
       <span>
@@ -169,7 +171,4 @@
    <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=arjunkhetia" align="center" alt="Arjun's visitors Badge" /> -->
    <img src="https://komarev.com/ghpvc/?username=arjunkhetia&color=blue&style=plastic" alt="Profile's visitors Badge" />
    <br />
-   <br />
-   <img src="https://custom-icon-badges.demolab.com/badge/EmanciTech-Arjun Khetia-blue.svg?logo=emancitech-icon" alt="Emancitech's Badge" />
-   
 </div>
