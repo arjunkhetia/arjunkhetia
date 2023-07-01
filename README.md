@@ -24,7 +24,7 @@
          <td align="center">
             <table border="0">
                <tr>
-                  <td align="center"><h3>FrontEnd Technologies</h3></td>
+                  <td align="center"><strong>FrontEnd Technologies</strong></td>
                </tr>
                <tr>
                   <td align="center">
