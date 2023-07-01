@@ -13,7 +13,7 @@
       </span> 
       (The Goal Of Technology Existence) Company.
    </h3>
-   <img src="https://custom-icon-badges.demolab.com/badge/EmanciTech-Arjun Khetia-blue.svg?logo=emancitech-icon" alt="Emancitech's Badge" />
+   <img src="https://custom-icon-badges.demolab.com/badge/EmanciTech-Arjun Khetia-blue.svg?logo=emancitech-icon" align="center" alt="Emancitech's Badge" />
 </div>
 <br />
 <div align="left">
