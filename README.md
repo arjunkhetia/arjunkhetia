@@ -155,6 +155,10 @@
    <h1> Quick Overview </h1>
 </div>
 <div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjunkhetia&theme=github" align="center" alt="Arjun's Github Information" />
+</div>
+<div align="center"> &nbsp; </div>
+<div align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkhetia" align="center" alt="Arjun's Github Streak" />
 </div>
 <div align="center"> &nbsp; </div>
