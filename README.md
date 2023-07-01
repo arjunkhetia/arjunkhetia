@@ -16,7 +16,7 @@
    <img src="https://custom-icon-badges.demolab.com/badge/EmanciTech-Arjun Khetia-blue.svg?logo=emancitech-icon" align="center" alt="Emancitech's Badge" />
 </div>
 <div align="center">
-   <h1> Technologies Worked On </h1>
+   <h1> Worked On Technologies </h1>
 </div>
 <div align="center">
    <table border="0">
@@ -151,8 +151,8 @@
    </table>
 </div>
 <br />
-<div align="left">
-   <h2> Quick Overview </h2>
+<div align="center">
+   <h1> Quick Overview </h1>
 </div>
 <div align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkhetia" align="center" alt="Arjun's Github Streak" />
@@ -167,7 +167,7 @@
 </div>
 <br />
 <div align="center">
-   <h3>Let's connect and chat!</h3>
+   <h2>Let's connect and chat!</h2>
    <a href="https://api.whatsapp.com/send?phone=9925565507"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/whatsapp.png"></a>
    &nbsp;
    <a href="https://www.facebook.com/arjunkhetia"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg"></a>
