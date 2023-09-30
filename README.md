@@ -2,6 +2,8 @@
    <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
 </div>
 <div align="center">
+# Hi There, I'm Arjun
+
    <h1>Hi There, I'm Arjun  <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/hand.gif" align="left" width="30" height="30" /> </h1>
 </div>
 <div align="center">
