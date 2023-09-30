@@ -32,6 +32,11 @@
             animation: none;
           }
         }
+        @media (prefers-color-scheme: light) {
+            .container {
+                color: black;
+            }
+        }
       </style>
       <div class="container">
         <h1>Hi There, I'm Arjun Khetia <div class="hi">👋</div></h1>
