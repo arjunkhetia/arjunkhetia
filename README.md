@@ -2,7 +2,9 @@
    <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
 </div>
 <div align="center">
-I am in <span style="font-family:Papyrus; font-size:6em;">LOVE!</span>
+ &lt;font size=1&gt; This is my text number1&lt;/font&gt; 
+
+ &lt;font size=&quot;2&quot;&gt; This is my text number 2 &lt;/font&gt;
    <h1>Hi There, I'm Arjun  <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/hand.gif" align="left" width="30" height="30" /> </h1>
 </div>
 <div align="center">
