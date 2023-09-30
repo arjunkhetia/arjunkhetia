@@ -1,12 +1,6 @@
 <div align="center">
    <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
 </div>
-<h1>Hi There, I'm Arjun</h1>
-<h2>Hi There, I'm Arjun</h2>
-<h3>Hi There, I'm Arjun</h3>
-<h4>Hi There, I'm Arjun</h4>
-<h5>Hi There, I'm Arjun</h5>
-<h6>Hi There, I'm Arjun</h6>
 <div align="center">
    <h1>Hi There, I'm Arjun  <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/hand.gif" align="left" width="30" height="30" alt="Hi..." /> </h1>
 </div>
