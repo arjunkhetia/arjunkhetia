@@ -1,5 +1,5 @@
-<div style="width: 100%;">
-  <img src="header.svg" alt="Click to see the source">
+<div align="center">
+  <img src="header.svg">
 </div>
 <div align="center">
    <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
