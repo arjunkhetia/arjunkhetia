@@ -2,7 +2,7 @@
    <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
 </div>
 <div align="center">
-   <font size="6">Hi There, I'm Arjun  <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/hand.gif" width="30" height="30" /> </font>
+   <p style="font-size: 12pt;">Hi There, I'm Arjun  <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/hand.gif" width="30" height="30" /> </p>
 </div>
 <div align="center">
    <h2> Arjun Khetia &nbsp; | &nbsp; Full Stack Developer &nbsp; | &nbsp; EmanciTech </h2>
