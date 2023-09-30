@@ -1,11 +1,11 @@
 <div align="center">
    <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
-   <br />
+   <br /><br />
    <img src="header.svg">
 </div>
-<div align="center">
+<!-- <div align="center">
    <h1>Hi There, I'm Arjun  <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/hand.gif" align="left" width="30" height="30" alt="Hi..." /> </h1>
-</div>
+</div> -->
 <div align="center">
    <h2> Arjun Khetia &nbsp; | &nbsp; Full Stack Developer &nbsp; | &nbsp; EmanciTech </h2>
    <h3>
