@@ -1,16 +1,8 @@
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
-
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
-
 <div align="center">
    <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
 </div>
 <div align="center">
-   <span style="font-size: 18px;">Hi There, I'm Arjun  <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/hand.gif" width="30px" height="30px" /> </span>
+   <h1>Hi There, I'm Arjun  <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/hand.gif" align="left" width="30" height="30" /> </h1>
 </div>
 <div align="center">
    <h2> Arjun Khetia &nbsp; | &nbsp; Full Stack Developer &nbsp; | &nbsp; EmanciTech </h2>
