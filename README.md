@@ -10,7 +10,7 @@
 </div>
 <div align="center">
 	<a href="https://github.com/arjunkhetia/arjunkhetia/blob/master/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+		<img src="header.svg" width="400" height="100" alt="Click to see the source">
 	</a>
 </div>
 <div align="center">
