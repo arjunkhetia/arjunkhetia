@@ -2,16 +2,6 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @keyframes hi  {
-            0% { transform: rotate( 0.0deg) }
-           10% { transform: rotate(14.0deg) }
-           20% { transform: rotate(-8.0deg) }
-           30% { transform: rotate(14.0deg) }
-           40% { transform: rotate(-4.0deg) }
-           50% { transform: rotate(10.0deg) }
-           60% { transform: rotate( 0.0deg) }
-          100% { transform: rotate( 0.0deg) }
-        }
         .container {
           width: 100%;
           height: 50px;
@@ -25,16 +15,11 @@
           font-weight: 600;
           font-size: 1em;
         }
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
-          display: inline-block;
-          transform-origin: 70% 70%;
-          transform: scale(1.5);
-        }
-        @media (prefers-reduced-motion) {
-          .hi {
-            animation: none;
-          }
+        .space {
+          padding-left: 10px;
+          padding-right: 10px;
+          margin-left: 10px;
+          margin-right: 10px;
         }
         @media (prefers-color-scheme: dark) {
           .container {
@@ -43,7 +28,7 @@
         }
       </style>
       <div class="container">
-        <h1>Hi There, I'm Arjun Khetia <div class="hi">👋</div></h1>
+        <h1>Arjun Khetia <span class="space"> | </span> Full Stack Developer <span class="space"> | </span> EmanciTech</h1>
       </div>
     </div>
   </foreignObject>
