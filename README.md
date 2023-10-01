@@ -7,15 +7,6 @@
    <hr />
 </div>
 <div align="center">
-   <h3>
-      I am a Full Stack Developer and also Founder of 
-      <span>
-         <a href="http://www.emancitech.com">EmanciTech</a>
-      </span> 
-      (The Goal Of Technology Existence) Company.
-   </h3>
-</div>
-<div align="center">
    <h1> Worked On Technologies </h1>
 </div>
 <div align="center">
