@@ -162,7 +162,7 @@
 </div>
 <hr />
 <div align="center">
-   <h2>Let's connect and chat!</h2>
+   <img src="connect.svg">
    <a href="https://api.whatsapp.com/send?phone=9925565507"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/whatsapp.png"></a>
    &nbsp;
    <a href="https://www.facebook.com/arjunkhetia"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/facebook.svg"></a>
@@ -179,7 +179,7 @@
    &nbsp;
    <a href="https://t.me/arjunkhetia"><img height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/telegram.png"></a>
 </div>
-<br />
+<hr />
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=arjunkhetia&color=blue&style=plastic" align="center" alt="Profile's visitors Badge" />
 </div>
