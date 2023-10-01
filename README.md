@@ -7,7 +7,7 @@
    <hr />
 </div>
 <div align="center">
-   <h1> Worked On Technologies </h1>
+   <img src="technologies.svg">
 </div>
 <div align="center">
    <table border="0">
