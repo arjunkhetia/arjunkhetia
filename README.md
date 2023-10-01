@@ -4,6 +4,7 @@
    <img src="header.svg">
    <hr style="border:2px solid gray">
    <img src="designtion.svg">
+   <hr style="border:2px solid gray">
 </div>
 <!-- <div align="center">
    <h1>Hi There, I'm Arjun  <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/hand.gif" align="left" width="30" height="30" alt="Hi..." /> </h1>
