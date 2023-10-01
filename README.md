@@ -2,9 +2,7 @@
    <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
    <br /><br />
    <img src="header.svg">
-   <br />
    <hr style="border:2px solid gray">
-   <br />
    <img src="designtion.svg">
 </div>
 <!-- <div align="center">
