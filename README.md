@@ -143,7 +143,7 @@
 </div>
 <hr />
 <div align="center">
-   <h1> Quick Overview </h1>
+   <img src="overview.svg">
 </div>
 <div align="center">
    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjunkhetia&theme=buefy" align="center" alt="Arjun's Github Information" />
@@ -160,7 +160,7 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkhetia&langs_count=10&layout=compact" align="center" alt="Arjun's Github Langs Stats" />
 </div>
-<br />
+<hr />
 <div align="center">
    <h2>Let's connect and chat!</h2>
    <a href="https://api.whatsapp.com/send?phone=9925565507"><img raw=true height="32" width="32" src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/whatsapp.png"></a>
