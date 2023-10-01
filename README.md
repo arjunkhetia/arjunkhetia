@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/coder.png" align="center" width="150" height="150" />
+   <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/coder.png" align="center" width="250" height="150" />
    <br /><br />
    <img src="header.svg">
    <hr style="border:2px solid gray">
