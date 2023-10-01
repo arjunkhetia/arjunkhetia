@@ -2,9 +2,11 @@
    <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
    <br /><br />
    <img src="header.svg">
+   <hr margin="0" />
    <img src="designtion.svg">
    <hr style="border:2px solid gray: margin: 0;">
 </div>
+-----
 <div align="center">
    <h3>
       I am a Full Stack Developer and also Founder of 
