@@ -141,7 +141,7 @@
       </tr>
    </table>
 </div>
-<br />
+<hr />
 <div align="center">
    <h1> Quick Overview </h1>
 </div>
