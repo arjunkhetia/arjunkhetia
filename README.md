@@ -1,6 +1,7 @@
 <div align="center">
    <img src="https://github.com/arjunkhetia/arjunkhetia/blob/master/images/developer.png" align="center" width="150" height="150" />
    <br /><br />
+   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50" height="50">
    <img src="header.svg">
    <hr />
    <img src="designtion.svg">
