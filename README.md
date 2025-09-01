@@ -4,7 +4,10 @@
    <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50" height="50">
    <img src="header.svg">
    <hr />
-   <img src="designtion.svg">
+   <!-- <img src="designtion.svg"> -->
+   <img src="designtion-1.svg">
+   <img src="designtion-&.svg">
+   <img src="designtion-2.svg">
    <hr />
 </div>
 <div align="center">
